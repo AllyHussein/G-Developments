@@ -10,7 +10,7 @@ function Discover() {
 
   const news = [
     {
-      image: "/assets/news1.jfif",
+      image: "/assets/news1.png",
       title: "G Developments launches Seashell Ras El Hekma",
       description:
         "The first fully-integrated coastal resort at the heart of the North Coast’s Ras El Hekma.",
